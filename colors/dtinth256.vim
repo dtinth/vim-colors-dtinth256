@@ -9,7 +9,7 @@ endif
 let colors_name = "dtinth"
 
 " todo: refactor this into a plugin on its own
-let s:xtermcolors = ['00', '5f', '87', 'af', 'd7', 'ff']
+let s:xtermcolors = ['00', '5f', '87', 'af', 'e0', 'ff']
 
 function! s:GenerateRGB(color)
   if a:color < 16
@@ -77,27 +77,27 @@ hi Pmenu ctermfg=White ctermbg=DarkBlue
 hi PmenuSel ctermfg=Red ctermbg=White
 
 " line number colors
-Xhi LineNr 111 000
+Xhi LineNr g6 000
 
 " status line, splitters
 Xhi StatusLineNC 333 111
-Xhi StatusLine s15 014 bold
-Xhi VertSplit 235 014
+Xhi StatusLine s15 024 bold
+Xhi VertSplit 235 024
 
 Xhi NonText 314
 Xhi Search 555 111 underline
 
 " syntax stuff
-Xhi Comment s14
+Xhi Comment 242
 Xhi Constant 522
-Xhi Special s224
-Xhi Identifier s14 bold
-Xhi Statement s11
-Xhi PreProc s81
-Xhi Type s121
+Xhi Identifier 245 bold
+Xhi Statement 442
+Xhi PreProc 423
+Xhi Type 342
 
+Xhi Special 234 bold
 
-
+Xhi ColorColumn g2 g2
 
 
 
