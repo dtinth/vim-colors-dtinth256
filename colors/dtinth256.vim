@@ -97,7 +97,7 @@ Xhi Type 342
 
 Xhi Special 234 bold
 
-Xhi ColorColumn g2 g2
+Xhi ColorColumn 500 g2
 
 
 
