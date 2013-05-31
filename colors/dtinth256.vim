@@ -85,7 +85,8 @@ Xhi StatusLine s15 024 bold
 Xhi VertSplit 235 024
 
 Xhi NonText 314
-Xhi Search 555 111 underline
+" Xhi Search 555 111 underline
+Xhi Search 555 g03 underline
 
 " syntax stuff
 Xhi Comment 242
@@ -99,7 +100,14 @@ Xhi Special 234 bold
 
 Xhi ColorColumn 500 g2
 
+" ctrl-p
+Xhi CtrlPMatch 251
+Xhi CtrlPStats 555 024
+Xhi CtrlPMode1 553 024
+Xhi CtrlPMode2 345 024
 
+" easymotion
+Xhi EasyMotionTarget 000 543 bold
 
 
 
