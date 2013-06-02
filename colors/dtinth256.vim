@@ -97,7 +97,6 @@ Xhi PreProc 423
 Xhi Type 342
 
 Xhi Special 234 bold
-
 Xhi ColorColumn 500 g2
 
 " ctrl-p
@@ -110,6 +109,8 @@ Xhi CtrlPMode2 345 024
 Xhi EasyMotionShade g6
 Xhi EasyMotionTarget 352
 
+" sign column and git gutter
+Xhi SignColumn g6 000
 
 
 
