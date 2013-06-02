@@ -112,7 +112,10 @@ Xhi EasyMotionTarget 352
 " sign column and git gutter
 Xhi SignColumn g6 000
 
-
+" indent guides
+let g:indent_guides_auto_colors = 0
+Xhi IndentGuidesOdd - 000
+Xhi IndentGuidesEven - g3
 
 
 
