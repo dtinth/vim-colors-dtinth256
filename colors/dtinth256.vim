@@ -107,7 +107,8 @@ Xhi CtrlPMode1 553 024
 Xhi CtrlPMode2 345 024
 
 " easymotion
-Xhi EasyMotionTarget 000 543 bold
+Xhi EasyMotionShade g6
+Xhi EasyMotionTarget 352
 
 
 
