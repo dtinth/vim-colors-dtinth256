@@ -37,7 +37,7 @@ Complete Popup Menu:
 
 Search Result Highlight:
 
-![Search Result Highlight Screenshot](http://i.imgur.com/ICLB5dZ.png)
+![Search Result Highlight Screenshot](http://i.imgur.com/Qs2rpMi.png)
 
 [easymotion]: https://github.com/Lokaltog/vim-easymotion
 [CtrlP]: https://github.com/kien/ctrlp.vim
