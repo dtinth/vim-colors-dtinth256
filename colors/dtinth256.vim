@@ -98,6 +98,10 @@ Xhi Type 342
 
 Xhi Special 234 bold
 Xhi ColorColumn 500 g2
+Xhi Conceal g12 000
+
+" vim-pandoc-syntax
+Xhi pandocNoFormatted 342
 
 " ctrl-p
 Xhi CtrlPMatch 251
